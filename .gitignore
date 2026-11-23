@@ -1,0 +1,8 @@
+*.fasta
+*.fna
+*.faa
+*.gff
+*.gbk
+*.bam
+*.gz
+__pycache__/

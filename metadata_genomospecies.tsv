@@ -1,0 +1,42 @@
+genome	strain	genomospecies	taxon	outgroup	type_strain	exclude_from_stats	note	isolation_source	group	checkm2_completeness	checkm2_contamination	habitat
+Bdellovibrio_bacteriovorus_109J	109J	GS01	B. bacteriovorus	no				seawater		100.0	0.8	marine_brackish
+Bdellovibrio_bacteriovorus_Bd13	Bd13	GS01	B. bacteriovorus	no				soil		99.95	1.24	soil
+Bdellovibrio_bacteriovorus_HD100	HD100	GS01	B. bacteriovorus	no	yes			soil (original isolation)		100.0	0.54	soil
+Bdellovibrio_bacteriovorus_LR-3	LR-3	GS01	B. bacteriovorus	no				Semi-running river water, from a depth of 4 meters		100.0	0.42	freshwater
+Bdellovibrio_bacteriopascens_22V	22V	GS02	B. bacteriopascens	no	yes			soil		99.98	0.47	soil
+Bdellovibrio_bacteriovorus_Bd19	Bd19	GS02	B. bacteriopascens	no				soil		99.98	0.37	soil
+Bdellovibrio_reynosensis_LBG001	LBG001	GS03	B. reynosensis	no	yes			soil		100.0	0.5	soil
+Bdellovibrio_svalbardensis_PAP01	PAP01	GS04	B. svalbardensis	no	yes			Svalbard biocrust sample		99.9	0.65	soil
+Bdellovibrio_bacteriovorus_kdesi	kdesi	GS05	B. deliciasensis sp. nov.	no	yes		proposed type strain (SeqCode)	wastewater (author information; BioSample: water)		92.54	0.29	wastewater
+Bdellovibrio_sp._BIS2	BIS2	GS06	Unnamed	no				freshwater pond		100.0	0.4	freshwater
+Bdellovibrio_bacteriovorus_HK2	HK2	GS06	Unnamed	no				tidal flat		95.11	1.89	marine_brackish
+Bdellovibrio_bacteriovorus_SSB218315	SSB218315	GS06	Unnamed	no				soil		100.0	0.4	soil
+Bdellovibrio_bacteriovorus_str._Tiberius	Tiberius	GS07	Unnamed	no				River Tiber (original isolation)		100.0	0.48	freshwater
+Bdellovibrio_bacteriovorus_Bd10	Bd10	GS08	Unnamed	no				river		100.0	0.39	freshwater
+Bdellovibrio_bacteriovorus_Bd5	Bd5	GS09	Unnamed	no				sewage		100.0	0.4	wastewater
+Bdellovibrio_sp._CKG001	CKG001	GS10	Unnamed	no				river water		100.0	0.32	freshwater
+Bdellovibrio_sp._HAGR004	HAGR004	GS10	Unnamed	no				sewage sludge		100.0	2.09	wastewater
+Bdellovibrio_sp._HM001	HM001	GS10	Unnamed	no				river water		100.0	0.47	freshwater
+Bdellovibrio_bacteriovorus_Bd3	Bd3	GS11	Unnamed	no				soil		99.99	0.78	soil
+Bdellovibrio_sp._HCB-110	HCB-110	GS11	Unnamed	no				soil (author information)		99.99	0.54	soil
+Bdellovibrio_sp._HCB-162	HCB-162	GS12	Unnamed	no				soil (author information)		99.98	0.3	soil
+Bdellovibrio_bacteriovorus_BER2	BER2	GS13	Unnamed	no						99.97	0.49	unknown
+Bdellovibrio_bacteriovorus_Bd4	Bd4	GS13	Unnamed	no				soil		99.98	0.5	soil
+Bdellovibrio_bacteriovorus_s4	s4	GS13	Unnamed	no				pond		98.56	1.03	freshwater
+Bdellovibrio_bacteriovorus_EC13	EC13	GS14	Unnamed	no						99.89	0.44	unknown
+Bdellovibrio_sp._HCB117	HCB117	GS14	Unnamed	no				soil (author information)		99.9	0.33	soil
+Bdellovibrio_sp._HCB274	HCB274	GS15	Unnamed	no				soil (author information)		99.98	1.05	soil
+Bdellovibrio_sp._HCB288	HCB288	GS16	Unnamed	no				soil (author information)		99.98	0.69	soil
+Bdellovibrio_sp._HCB290	HCB290	GS17	Unnamed	no				soil (author information)		99.99	1.02	soil
+Bdellovibrio_sp._HCB185ZH	HCB185ZH	GS18	Unnamed	no				soil (author information)		99.99	0.75	soil
+Bdellovibrio_sp._KM01	KM01	GS19	Unnamed	no				soil		100.0	1.05	soil
+Bdellovibrio_sp._NC01	NC01	GS20	Unnamed	no				Bioswale		100.0	0.75	wastewater
+Bdellovibrio_sp._ZAP7	ZAP7	GS21	Unnamed	no				Drain		100.0	1.31	wastewater
+Bdellovibrio_sp._HCB209	HCB209	GS22	Unnamed	no				soil (author information)		100.0	0.61	soil
+Bdellovibrio_bacteriovorus_Bd16	Bd16	GS23	Unnamed	no				soil		99.99	0.21	soil
+Bdellovibrio_sp._SKB1291214	SKB1291214	GS24	Unnamed	no				soil		99.99	0.75	soil
+Bdellovibrio_bacteriovorus_W	W	GS25	Unnamed	no		yes	genome reported incomplete; excluded from gene-content statistics and codeml			99.95	0.38	unknown
+Bdellovibrio_sp._HCB337	HCB337	GS26	Unnamed	no				soil (author information)		99.98	0.55	soil
+Bdellovibrio_exovorus_JSS	JSS	Out	P. exovorus (outgroup)	yes				sewage (original isolation)		99.99	0.15	wastewater
+Bdellovibrio_sp._qaytius	qaytius	Out	Ca. Bdellovibrio necator (outgroup)	yes				Composite sample from fresh water environments of southern British Columbia		99.92	0.95	freshwater
+Pseudobdellovibri_sp_HCB154	HCB154	Out	Pseudobdellovibrio sp. (outgroup)	yes				soil (author information)		99.86	0.44	soil
